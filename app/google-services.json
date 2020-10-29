@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "438889400065",
+    "firebase_url": "https://alfamatic-f23b0.firebaseio.com",
+    "project_id": "alfamatic-f23b0",
+    "storage_bucket": "alfamatic-f23b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438889400065:android:8554ddb72f052e4b2dfd00",
+        "android_client_info": {
+          "package_name": "com.example.alfamatic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438889400065-k0mfsh9r1famo2hc1rnjrlgq455osu9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHbrFfjS2ff5IngMj82IeytpC-JlZz5CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438889400065-k0mfsh9r1famo2hc1rnjrlgq455osu9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

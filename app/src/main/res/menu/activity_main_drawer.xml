@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/machineOne"
+            android:title="Machine One" />
+        <item
+            android:id="@+id/machineTwo"
+            android:title="Machine Two" />
+        <item
+            android:id="@+id/machineThree"
+            android:title="Machine Three" />
+
+        <item
+            android:id="@+id/machineFour"
+            android:title="Machine Four" />
+
+
+        <item
+            android:id="@+id/savedPhoto"
+            android:title="Saved Photos" />
+
+
+        <item
+            android:id="@+id/logout"
+            android:title="Logout" />
+    </group>
+
+    <item android:title="Communication with us">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/contactUs"
+                    android:icon="@drawable/contact_us"
+                    android:iconTint="@color/colorPrimaryDark"
+                    android:title="Contact Us"/>
+                <item
+                    android:id="@+id/aboutUs"
+                    android:icon="@drawable/about_us"
+                    android:iconTint="@color/colorPrimaryDark"
+                    android:title="About Us"/>
+            </group>
+        </menu>
+    </item>
+</menu>
